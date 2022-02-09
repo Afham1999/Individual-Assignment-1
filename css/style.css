@@ -1,0 +1,44 @@
+body
+
+{
+	background-image: css/style.css;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a:link, a:visited
+	{
+		color: white;
+		background-color: #e60000;
+		text-decoration: none;
+		padding: 10px;
+		text-align: center;
+		display: inline-block;
+		font-family: calibri;
+		border-radius: 17px;
+	}
+
+a:hover
+	{
+		color: #e60000;
+		background-color: white;
+		text-decoration: none;
+	}
+
+a:active
+	{
+		color: black;
+		background-color: whitesmoke;
+		text-decoration: underline;
+	}
+
+div.a
+	{
+		text-align: center;
+	}
+
+footer
+	{
+		background-color: transparent;
+		border-radius: 0px;
+	}
